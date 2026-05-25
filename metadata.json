@@ -1,0 +1,6 @@
+{
+  "name": "Bismillah Khan Portfolio",
+  "description": "Premium ultra-dark developer portfolio for Bismillah Khan containing CV timeline, filterable projects, services, custom animated elements, and a contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
